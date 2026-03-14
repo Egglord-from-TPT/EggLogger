@@ -6,6 +6,6 @@ This is my ninth python library :D
 
 # !NB!
 
-Use: pip install egglog
+Use: pip install egglogger
 
-But, to import it: import egglog
+But, to import it: import egglogger

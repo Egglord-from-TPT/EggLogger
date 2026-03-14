@@ -3,8 +3,8 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "egglog"
-version = "1.0.1"
+name = "egglogger"
+version = "1.0.2"
 description = "A Python package that logs all output."
 readme = "README.md"
 requires-python = ">=3.8"
